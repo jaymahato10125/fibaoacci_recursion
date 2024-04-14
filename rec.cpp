@@ -21,5 +21,5 @@ int main()
     int n;
     cout<<"Enter the number: ";
     cin>>n;
-    cout<<"The foctorial of the number is: "<<fibaoacci(n)<<endl;
+    cout<<"The foctorial  is: "<<fibaoacci(n)<<endl;
 }
